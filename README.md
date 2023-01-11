@@ -6,3 +6,6 @@ In this study, we approach the Turkish news categorization problem as an ad-hoc 
 We propose an ensemble categorization approach that consists of three main stages, namely, document processing, paragraph vector learning, and document similarity estimation. 
 Extensive experiments conducted on the TTC-3600 dataset reveal that the proposed system can reach up to 93.5% classification accuracy, which is a remarkable performance when compared to the baseline and state-of-the-art methods. 
 Moreover, it is also shown that the Distributed Bag of Words version of Paragraph Vectors performs better than the Distributed Memory Model of Paragraph Vectors in terms of both accuracy and computational performance.
+
+# Citation
+If you build upon the proposed idea or use the source code, please cite the following paper:
