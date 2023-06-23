@@ -9,4 +9,5 @@ Moreover, it is also shown that the Distributed Bag of Words version of Paragrap
 
 # Citation
 If you build upon the proposed idea or use the source code, please cite the following paper:
+
 YÜREKLİ, A. (2023). ON THE EFFECTIVENESS OF PARAGRAPH VECTOR MODELS IN DOCUMENT SIMILARITY ESTIMATION FOR TURKISH NEWS CATEGORIZATION. Eskişehir Technical University Journal of Science and Technology A-Applied Sciences and Engineering, 24(1), 23-34.
